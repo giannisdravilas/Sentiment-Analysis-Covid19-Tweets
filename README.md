@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Covid19-Tweets
-💉📱 Sentiment Analysis of Covid19 tweets fetched from Twitter, using various Data Mining techinques and Machine Learning algorithms.
+💉📱 Sentiment Analysis of Covid19 tweets fetched from Twitter, using various Data Mining techniques and Machine Learning algorithms.
 
 In collaboration with [Aris Moutsatsos](https://github.com/arismoutsatsos)
 
